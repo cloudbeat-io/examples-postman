@@ -54,7 +54,7 @@
 					"response": []
 				},
 				{
-					"name": "DigestAuth Success",
+					"name": "DigestAuth1 Success",
 					"event": [
 						{
 							"listen": "test",
